@@ -1,0 +1,88 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro {
+    margin-left: 15px;
+}
+
+h1 {
+    margin-bottom: -5px;
+}
+
+.details, h2 {
+    margin-top: -4px;
+}
+
+body {
+    background-color: #1a202c;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+section {
+    background-color: #eaf2ff;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 1100px;
+
+}
+
+.event {
+    background-color: white;
+    display: flex;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+div div {
+    margin: 10px;
+}
+
+.calendar {
+    text-align: center;
+    min-width: 130px;
+    border-radius: 15px;
+    padding-bottom: 20px;
+  }
+
+.time {
+    font-size: 30px;
+    font-weight: 600;
+    margin: -10px;
+}
+
+button {
+    width: 250px;
+    height: 50px;
+    margin: 30px 5px 15px 40px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#sold {
+    text-align: center;
+    margin: -5px 50px;
+    padding: 5px;
+    padding-top: 20px;
+    width: 100px;
+}
+
+.orange {
+    background-color: #f7dad4;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.blue {    
+    background-color: #d4e5f5;
+}
+
+.purple {
+    background-color: #decff6;
+}
